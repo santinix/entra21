@@ -3,6 +3,7 @@ import "./styles.css"
 export function Footer(){
     return(
         <div id="footer">
+            <hr />
             
             <div id="links">
 
@@ -14,7 +15,7 @@ export function Footer(){
                 Fale conosco
             </a>
 
-        </div>
+            </div>
             
         </div>
     )
