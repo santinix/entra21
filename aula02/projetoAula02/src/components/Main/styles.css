@@ -1,0 +1,36 @@
+#main{
+    width: 592px;
+    height: 312px;
+    
+    margin: 32px auto 64px;
+   
+    
+}
+
+
+h1 {
+    font-family: 'Inter';
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: 400;
+    
+
+    margin-bottom: 16px;
+}
+
+h1 span {
+    font-weight: 700;
+    color: #FF9900;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+p span {
+    font-weight: 700;
+    color: #FF9900;
+}
